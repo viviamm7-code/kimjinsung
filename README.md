@@ -40,7 +40,7 @@
 ## 🏆 Baekjoon Tier
 <div align="center">
 
-![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=YOUR_BOJ_ID)
+![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=solveback)
 
 </div>
 
@@ -84,8 +84,8 @@
 ---
 
 ## ✉️ Contact
-📬 **Email**: your@email.com  
-📓 **Blog / Velog**: https://velog.io/@your-id
+📬 **Email**: viviamm7@gmail.com  
+📓 **Blog / Velog**:https://velog.io/@viviamm7-code/posts
 
 ---
 
